@@ -63,7 +63,7 @@ table {
 .header {
     max-width: 1024px;
     height: 450px;
-    background-image: url('images/img-headerShape.png');
+    background-image: url('resume/images/img-headerShape.png');
     background-repeat: no-repeat;
     background-size: contain;
     margin-bottom: 132px;
